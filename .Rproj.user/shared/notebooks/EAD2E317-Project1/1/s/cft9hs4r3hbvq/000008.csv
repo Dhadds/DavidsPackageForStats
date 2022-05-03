@@ -1,0 +1,11 @@
+"0","library(DavidsPackage)"
+"2","
+Attaching package: ‘DavidsPackage’
+
+"
+"2","The following object is masked _by_ ‘.GlobalEnv’:
+
+    myDDT
+
+"
+"0","DavidsPackage::myDDT(ddt, Species = ""CCATFISH"") "
